@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="LoginSystem/LoginSystem.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean) Xamarin" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginSystem/Dialog_SignUp.cs">
+    <Files>
+      <File FileName="LoginSystem/Dialog_SignUp.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/merlinmoya/Projects/LoginSystem/LoginSystem/Resources/anim/Slide_right.xml" line="3" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoginSystem AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
